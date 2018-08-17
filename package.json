@@ -1,0 +1,17 @@
+{
+  "name": "express-rest",
+  "version": "0.1.0",
+  "description": "an experiment in creating a express REST api server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Marcus Göhle",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.8"
+  }
+}
