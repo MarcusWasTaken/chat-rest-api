@@ -1,6 +1,6 @@
 {
   "name": "express-rest",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "an experiment in creating a express REST api server",
   "main": "server.js",
   "scripts": {
